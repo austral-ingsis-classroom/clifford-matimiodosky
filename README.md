@@ -8,6 +8,9 @@ un file system en memoria.
 - Deberán usar los patrones "Command" y "Composite" para implementar este TP.
 
 
+
+
+
 ## Comandos a implementar.
 
 #### ls
